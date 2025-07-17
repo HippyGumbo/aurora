@@ -1,0 +1,60 @@
+# Compiled object files
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# CMake build folders
+cmake-build-debug/CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+build/
+cmake-build-*/
+
+# Ninja build files
+build.ninja
+.ninja_deps
+.ninja_log
+
+# CLion project files
+.idea/
+*.iml
+
+# VSCode project files
+.vscode/
+
+# Test output
+Testing/
+
+# Other
+*.log
+*.tmp
+*.swp
+*~
+
+# Ignore everything in this directory (for build output folders)
+*
+!/.gitignore
