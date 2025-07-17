@@ -46,9 +46,6 @@ build.ninja
 # VSCode project files
 .vscode/
 
-# Test output
-Testing/
-
 # Other
 *.log
 *.tmp
