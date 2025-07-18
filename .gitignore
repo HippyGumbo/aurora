@@ -53,5 +53,4 @@ build.ninja
 *~
 
 # Ignore everything in this directory (for build output folders)
-*
 !/.gitignore
